@@ -4,7 +4,7 @@ Tehnologii folosite:
 ⦁	Alan AI (scripturile sunt scrise în JavaScript);
 ⦁	Java (Android Studio).
 
-Funcționalități:
+Funcționalități:</br>
 ⦁	afișează știrile (titlu, descriere, sursă) sub formă de carduri individuale așezate într-o listă verticală;
 ⦁	un buton în dreapta jos care activează asistentul pentru a primi comenzi vocale în limba engleză.
 
