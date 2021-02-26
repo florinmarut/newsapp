@@ -1,7 +1,7 @@
 # newsapp
-Tehnologii folosite:
-⦁	News API;
-⦁	Alan AI (scripturile sunt scrise în JavaScript);
+Tehnologii folosite:</br>
+⦁	News API;</br>
+⦁	Alan AI (scripturile sunt scrise în JavaScript);</br>
 ⦁	Java (Android Studio).
 
 Funcționalități:</br>
@@ -14,12 +14,12 @@ Comenzi pe care le poate primi asistentul vocal:</br>
 ⦁	(show|what is|tell me|what's|what are|what're|read) (the|) (recent|latest|)  (Nnews|headlines) (in|about|on|) {categorie}) SAU  read|show|get|bring me|give me) (the|) (recent|latest)  {categorie} (News|headlines)  -  caută și afișează știri care aparțin de o anumită categorie.</br>
 
 Exemplu de rezultat după primirea comenzii ,,Give me the news from CNN”:</br>
-<img src="https://github.com/florinmarut/newsapp/blob/main/img1.png" width="400">
+<img src="https://github.com/florinmarut/newsapp/blob/main/img1.png" width="300">
 
 
 Prima pagină conține o listă cu exemple de comenzi:</br>
-<img src="https://github.com/florinmarut/newsapp/blob/main/img2.png" width="400"></br>
-<img src="https://github.com/florinmarut/newsapp/blob/main/img3.png" width="400">
+<img src="https://github.com/florinmarut/newsapp/blob/main/img2.png" width="300"></br>
+<img src="https://github.com/florinmarut/newsapp/blob/main/img3.png" width="300">
  
 
  
