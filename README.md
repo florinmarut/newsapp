@@ -13,11 +13,11 @@ Comenzi pe care le poate primi asistentul vocal:</br>
 ⦁	what's up with {term} – caută și afișează știrile care conțin un anumit termen/cuvânt/subiect;</br>
 ⦁	(show|what is|tell me|what's|what are|what're|read) (the|) (recent|latest|)  (Nnews|headlines) (in|about|on|) {categorie}) SAU  read|show|get|bring me|give me) (the|) (recent|latest)  {categorie} (News|headlines)  -  caută și afișează știri care aparțin de o anumită categorie.</br>
 
-Exemplu de rezultat după primirea comenzii ,,Give me the news from CNN”:</br>
+Exemplu de rezultat după primirea comenzii ,,Give me the news from CNN”:</br></br>
 <img src="https://github.com/florinmarut/newsapp/blob/main/img1.png" width="300"></br></br></br>
 
 
-Prima pagină conține o listă cu exemple de comenzi:</br>
+Prima pagină conține o listă cu exemple de comenzi:</br></br>
 <img src="https://github.com/florinmarut/newsapp/blob/main/img2.png" width="300"></br></br></br>
 <img src="https://github.com/florinmarut/newsapp/blob/main/img3.png" width="300"></br></br></br>
  
