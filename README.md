@@ -14,7 +14,7 @@ Comenzi pe care le poate primi asistentul vocal:
 ⦁	(show|what is|tell me|what's|what are|what're|read) (the|) (recent|latest|)  (Nnews|headlines) (in|about|on|) {categorie})` SAU  read|show|get|bring me|give me) (the|) (recent|latest)  {categorie} (News|headlines)  -  caută și afișează știri care aparțin de o anumită categorie.
 
 Exemplu de rezultat după primirea comenzii ,,Give me the news from CNN”:
- 
+ ![alt text](https://github.com/florinmarut/newsapp/blob/main/img1.png?raw=true)
 
 
 Prima pagină conține o listă cu exemple de comenzi:
